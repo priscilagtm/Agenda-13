@@ -1,0 +1,42 @@
+.container {
+width: 100%;
+display: flex;
+flex-direction: row;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.esquerda
+{
+flex-grow: 1;
+background:goldenrod;
+font-size: 1.5em;
+text-align:center;
+}
+.centro{
+flex-grow: 1;
+background: #ffea00;
+font-size: 1.5em;
+text-align:center;
+}
+.direita
+{
+flex-grow: 1;
+background:goldenrod;
+font-size: 1.5em;
+text-align:center;
+}
+h1{
+color: #ff00ff;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+img {
+    box-align: center; 
+    max-width: 200px; /* Garante que a imagem não ultrapasse a largura do contêiner */
+    height: auto;
+    margin: 20px auto; /* O primeiro valor (20px) é para CIMA e BAIXO. O 'auto' continua centralizando nas laterais */
+ 
+}
+.fonte{
+    font-family: cursive;
+    font-size: larger;
+    color: red ;
+}

@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">  
+<link rel="stylesheet" type="text/css" href="reset.css">
+<link rel="stylesheet" type="text/css" href="estilo.css">
+<title>Meu Portal de Entretenimento Digital</title>
+<style>
+    h2{
+    text-align: center;
+    color:orangered;
+    font-weight: bold; // Deixa o texto em negrito - sugestão do gemini
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    }
+</style>
+</head>
+<body>
+    <h1 style="text-align: center; color:palevioletred; font-style: italic;font-size: 36px">Meu Portal de Entretenimento Digital</h1>
+<p style="text-align: center;">...</p><br>
+
+<p class="fonte" align="center">Meus interesses em música, filmes e jogos</p><br>
+
+</p><div class="container">
+    <div class="esquerda">
+        <h2>Filmes e Séries</h2><br>
+        <img src="senhordosaneis.jpeg" alt="Senhor dos Anéis"><br>
+            <p>O universo de O Senhor dos Anéis, criado por J.R.R. Tolkien, é o pilar da fantasia moderna. A história foca na jornada para destruir o "Um Anel" e derrotar o senhor sombrio Sauron.</p>
+        
+        <p style="text-align: center;">...</p><br>
+
+            <img src="harrypotter.jpg" alt="Harry Potter"><br>
+            <p>A série de livros e filmes de Harry Potter, escrita por J.K. Rowling, segue as aventuras do jovem bruxo Harry Potter e seus amigos na Escola de Magia e Bruxaria de Hogwarts.</p>   
+
+    </div>
+    <div class="centro">
+    <h2>Músicas e Podcasts</h2><br>
+    <img src="offspring.jpg" alt="Offspring"><br>
+        <p>Offspring é uma banda de punk rock americana formada em 1984. Conhecida por suas músicas energéticas e letras provocativas, a banda conquistou uma base de fãs leal ao longo dos anos.</p>
+  <p style="text-align: center;">...</p><br>
+
+    </p><img src="racanegra.jpg" alt="Raça Negra"><br>
+        <p>Raça Negra é um grupo musical brasileiro de samba e pagode formado em 1983. Com uma carreira de sucesso, a banda é conhecida por suas músicas românticas e animadas, conquistando fãs em todo o país.</p>
+    </div>
+    <div class ="direita">
+    <h2> Games e Tecnologia</h2><br>
+    <img src="residentevil.jpeg" alt="Residente Evil"><br>
+        <p>Resident Evil é uma série de jogos de survival horror desenvolvida pela Capcom. A franquia é conhecida por sua atmosfera tensa, enredos complexos e jogabilidade desafiadora, conquistando uma base de fãs dedicada ao longo dos anos.</p>
+    <p style="text-align: center;">...</p><br>
+    <img src="godofwar.jpeg" alt="God of War"><br>
+        <p>God of War é uma série de jogos de ação/aventura desenvolvida pela Santa Monica Studio. A franquia é conhecida por sua narrativa envolvente, combinações de batalha intensas e personagens bem desenvolvidos, conquistando uma base de fãs dedicada ao longo dos anos.</p>
+    </div>
+</div>
+</body>
+</html>
